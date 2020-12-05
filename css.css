@@ -1,0 +1,37 @@
+.t0{
+font-size: 60;
+color: #7ba05b;
+}
+
+.text0{
+font-size: 22;
+margin-left: 100px;
+}
+
+.text1{
+font-size:22;
+}
+
+.map{
+font-size:20;
+}
+
+
+ul{ 
+list-style-type:none;
+font-size:20;
+}
+
+a:link{
+color: #1faee9;
+text-decoration: none;
+}
+
+a:visited{
+color: #5d76cb;
+text-decoration: none
+}
+
+a:hover{
+color: #00bfff;
+}
